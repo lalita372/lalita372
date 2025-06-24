@@ -4,7 +4,7 @@
 - 🌟 Interested in Open Source and Building Meaningful UI
 - 📫 How to reach me: lk6896122@example.com
 
-<-- skill -->
+
 ## 🛠️ Skills
 ![HTML](https://img.shields.io/badge/-HTML5-orange)
 ![CSS](https://img.shields.io/badge/-CSS3-blue)
@@ -12,4 +12,4 @@
 ![React](https://img.shields.io/badge/-React-blue)
 
 ## 📈 GitHub Stats
-![Lalita's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Lalita's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-lalita372&show_icons=true&theme=radical)

@@ -1,5 +1,5 @@
-- 👋 Hi, I’m lalita372
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Project related to Web development
-- 📫 for Collaboratiing  or making some projects together , email me on @lk6896122@gmail.com
+- 👋 Hi, I’m Lalita Singh
+- 🌱 I’m currently learning JavaScript, React, and Data Structures
+- 💼 Actively preparing for frontend development roles
+- 🌟 Interested in Open Source and Building Meaningful UI
+- 📫 How to reach me: lalita.email@example.com

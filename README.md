@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Project related to Web development
-- 📫 for Collaboratiing  or making some projects together , mail me on @lk6896122@gmail.com
+- 📫 for Collaboratiing  or making some projects together , email me on @lk6896122@gmail.com

@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JavaScript, React, and Data Structures
 - 💼 Actively preparing for frontend development roles
 - 🌟 Interested in Open Source and Building Meaningful UI
-- 📫 How to reach me: lk6896122@example.com
+- 📫 How to reach me: lalita.singh.cse@example.com
 
 
 ## 🔧 Tech Stack

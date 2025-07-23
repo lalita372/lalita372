@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lalita Singh
-- 🌱 I’m currently learning JavaScript, React, and Data Structures
+- 🌱 I’m currently learning Node.js
 - 💼 Actively seeking for frontend development roles
 - 🌟 Interested in Open Source and Building Meaningful UI
 - 📫 How to reach me: lalita.singh.cse@gmail.com
